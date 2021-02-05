@@ -2498,6 +2498,7 @@
     margin: 0vh auto 0px;
     background-size: 46%;
     background-position: 7px 7px;
+    border-radius: 100px;
   }
 
   .main__team__people_button__facebook {
