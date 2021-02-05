@@ -1901,7 +1901,7 @@
 
   .wrap-main {
     max-width: 86vw;
-    padding: 3vh 0 60vh;
+    padding: 3vh 0 70vh;
   }
   .main-header {
     margin-top: 6.5vw;
@@ -2498,7 +2498,8 @@
     margin: 0vh auto 0px;
     background-size: 46%;
     background-position: 7px 7px;
-    border-radius: 100px;
+    border-radius: 25px;
+    line-height: 15px;
   }
 
   .main__team__people_button__facebook {
